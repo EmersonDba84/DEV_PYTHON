@@ -13,4 +13,4 @@ print(f'Você tem {idade} anos de idade.')
 if(idade >= 18):
     print('Você é de maior. Já pode tirar a carteira de motorista.')
 elif(idade < 18):
-    print('Voçe é Menor de idade e não pode dirigir.')
+    print('Você é Menor de idade e não pode dirigir.')
